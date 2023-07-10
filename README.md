@@ -31,7 +31,7 @@ To use the animated buttons on hover in your project, follow these steps:
 1. Download the repository as a ZIP file or clone it using the following command:
 
    ```bash
-  [ git clone https://github.com/your-username/animated-button-on-hover.git](https://github.com/abdul-1432/js-20_Animated_Button)
+  [ git clone https://github.com/abdul-1432/animated-button-on-hover.git](https://github.com/abdul-1432/js-20_Animated_Button)
    ```
 
 2. Copy the necessary files (HTML, CSS, and JavaScript) to your project directory.
